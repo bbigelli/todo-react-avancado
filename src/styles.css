@@ -1,44 +1,22 @@
-<<<<<<< HEAD
 .app {
   max-width: 500px;
   margin: 0 auto;
   padding: 20px;
+  font-family: Arial, sans-serif;
 }
 
 input[type="text"] {
   width: 70%;
   padding: 8px;
+  margin-right: 5px;
 }
 
 button {
   padding: 8px 12px;
-  margin-left: 5px;
   cursor: pointer;
 }
 
 .completed {
   text-decoration: line-through;
   opacity: 0.6;
-=======
-.app {
-  max-width: 500px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-input[type="text"] {
-  width: 70%;
-  padding: 8px;
-}
-
-button {
-  padding: 8px 12px;
-  margin-left: 5px;
-  cursor: pointer;
-}
-
-.completed {
-  text-decoration: line-through;
-  opacity: 0.6;
->>>>>>> cbe4e88c87609aeee5756187e5cbe516bfe221e2
 }
